@@ -2,7 +2,7 @@
 
 ### Course: CPNT201-A5
 
-### GitHub Page:
+### GitHub Page: https://munchy11.github.io/cpnt201-A5/
 
 ### Link To GitHub Repo: https://github.com/Munchy11/cpnt201-A5/edit/main/README.md
 
