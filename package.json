@@ -1,0 +1,23 @@
+{
+  "name": "cpnt201-a4",
+  "version": "1.0.0",
+  "description": "cpnt201-a4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "this is my tailwind build!!!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munchy11/cpnt201-A4.git"
+  },
+  "author": "Lucas Muenchrath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Munchy11/cpnt201-A4/issues"
+  },
+  "homepage": "https://github.com/Munchy11/cpnt201-A4#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
